@@ -16,7 +16,7 @@ python3 -m venv venv
 ### Usage
 
 ```
-./venv/bin/python get_bundles.py > result.txt
+./venv/bin/python get_bundles.py
 ```
 
 ## Authors

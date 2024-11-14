@@ -7,6 +7,7 @@ RETRY_COUNT = 30
 ENTITIES_TAKE_MAX = 1000
 
 MOYSKLAD_TOKEN = 'very_secret_token'
+FILENAME_BASE_XLS_OUTPUT = 'bundles'
 
 
 # Import local overrides
